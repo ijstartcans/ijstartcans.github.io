@@ -2,7 +2,7 @@
 
  [![canon.com/ijsetup](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
  
-[canon.com/ijsetup](https://canostart.github.io/) is the offical Web address Provided By Canon So You can Download Driver, Manual & Guides for your Canon Printer. Consider it a One-Stop Shop For All Your Printer Needs. You Can manually find the Correct Version of Driver for Your Printer. Just Type the Printer Model Number & it Will Automatically Find the relevant Driver For Your Printer.
+[Ij Start Canon](https://ijstartcans.github.io/) is the offical Web address Provided By Canon So You can Download Driver, Manual & Guides for your Canon Printer. Consider it a One-Stop Shop For All Your Printer Needs. You Can manually find the Correct Version of Driver for Your Printer. Just Type the Printer Model Number & it Will Automatically Find the relevant Driver For Your Printer.
 
 ## Purchasing the Canon printer
 1. There are two ways of purchasing the canon printer.
@@ -32,7 +32,7 @@
 
 *Just turn on your pc or any other device. 
 
-*Go to the web browser of your pc or device and enter the URL https://ij.start.canon.
+*Go to the web browser of your pc or device and enter the URL [Ij Start Canon](https://ijstartcans.github.io/).
 
 *Then you will be taken to the official website of the ij.start.canon.
 
