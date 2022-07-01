@@ -1,6 +1,6 @@
 # IJ.Start.Canon Setup || Canon IJ Printer Setup 
 
- [![canon.com/ijsetup](Get-Started.png)](https://digipinpoint.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
+ [![canon.com/ijsetup](Get-Started.png)](https://hbomaxtvv.com/ref.php?i=8b4d9b53-915c-4a07-8b72-0012d3c156cd)
  
 [Ij Start Canon](https://ijstartcans.github.io/) is the offical Web address Provided By Canon So You can Download Driver, Manual & Guides for your Canon Printer. Consider it a One-Stop Shop For All Your Printer Needs. You Can manually find the Correct Version of Driver for Your Printer. Just Type the Printer Model Number & it Will Automatically Find the relevant Driver For Your Printer.
 
